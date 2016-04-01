@@ -1,6 +1,6 @@
 # README
 
-"urilib" 是 python 里面一个比较好用的 URL 处理库。基于项目的需要，将 URL 处理部分独立剥离出来得到此库。
+"urllib" is a very good lib to deal with things about URL. I wrote this lib just like urllib's style.
 
 More detail information please see https://docs.python.org/2/library/urllib.html
 
